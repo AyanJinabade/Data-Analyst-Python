@@ -4,7 +4,7 @@ This project analyzes food donation listings to help NGOs optimize pickup schedu
 
 A Streamlit dashboard is used to present analytics and provide real-time predictions in an easy-to-use interface.
 
-🎯 Objectives
+ Objectives
 
 Analyze historical food donation data
 
@@ -14,19 +14,19 @@ Estimate the likelihood of NGO pickup/collection
 
 Assist NGOs in prioritizing high-value, time-critical donations
 
-🛠️ Features
+Features
 
-📊 Interactive analytics dashboard (Streamlit)
+Interactive analytics dashboard (Streamlit)
 
-⏱️ Real-time prediction of food freshness
+Real-time prediction of food freshness
 
-📦 Pickup likelihood prediction
+Pickup likelihood prediction
 
-📈 Data-driven insights for NGO scheduling
+Data-driven insights for NGO scheduling
 
-🧠 Machine learning–based inference
+Machine learning–based inference
 
-🧑‍💻 Tech Stack
+Tech Stack
 
 Python
 
@@ -37,3 +37,4 @@ Scikit-learn
 Streamlit
 
 Matplotlib / Seaborn
+
