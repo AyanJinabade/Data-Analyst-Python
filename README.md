@@ -1,32 +1,33 @@
+
 About the Project
 
-This project analyzes food donation listings to help NGOs optimize pickup scheduling and reduce food waste. It predicts food freshness and the likelihood of successful collection, enabling better decision-making for time-sensitive donations.
+This project analyzes food donation listings to help NGOs optimize pickup scheduling and reduce food waste. The system predicts food freshness and the likelihood of successful NGO collection, enabling better decision-making for time-sensitive food donations.
 
-A Streamlit dashboard is used to present analytics and provide real-time predictions in an easy-to-use interface.
+An interactive Streamlit dashboard is used to visualize analytics and provide real-time predictions, making the system easy for NGOs to use.
 
- Objectives
+Objectives:
 
 Analyze historical food donation data
 
-Predict food freshness based on key attributes
+Predict food freshness using key attributes
 
-Estimate the likelihood of NGO pickup/collection
+Estimate the likelihood of NGO pickup or collection
 
-Assist NGOs in prioritizing high-value, time-critical donations
+Help NGOs prioritize time-critical and high-value donations
 
-Features
+Features:
 
-Interactive analytics dashboard (Streamlit)
+Interactive analytics dashboard built with Streamlit
 
 Real-time prediction of food freshness
 
-Pickup likelihood prediction
+Prediction of pickup/collection likelihood
 
-Data-driven insights for NGO scheduling
+Data-driven insights for better NGO scheduling
 
-Machine learning–based inference
+Machine learning–based prediction system
 
-Tech Stack
+Tech Stack:
 
 Python
 
@@ -38,3 +39,6 @@ Streamlit
 
 Matplotlib / Seaborn
 
+Impact:
+
+This system helps NGOs make faster and smarter decisions by identifying which food donations should be collected first, ultimately reducing food waste and improving food distribution efficiency.
