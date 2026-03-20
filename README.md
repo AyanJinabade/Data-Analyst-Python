@@ -1,21 +1,21 @@
-
+Food Donation Analytics & Prediction System
 About the Project
 
-This project analyzes food donation listings to help NGOs optimize pickup scheduling and reduce food waste. The system predicts food freshness and the likelihood of successful NGO collection, enabling better decision-making for time-sensitive food donations.
+This project analyzes food donation listings to help NGOs optimize pickup scheduling and reduce food waste. It predicts food freshness and the likelihood of successful NGO collection, enabling data-driven decisions for time-sensitive donations.
 
-An interactive Streamlit dashboard is used to visualize analytics and provide real-time predictions, making the system easy for NGOs to use.
+An interactive Streamlit dashboard provides real-time insights and predictions, making the system practical and easy to use for NGOs.
 
 Objectives:
 
 Analyze historical food donation data
 
-Predict food freshness using key attributes
+Predict food freshness using key features
 
-Estimate the likelihood of NGO pickup or collection
+Estimate the likelihood of NGO pickup/collection
 
-Help NGOs prioritize time-critical and high-value donations
+Prioritize high-value and time-critical donations
 
-Features:
+Key Features:
 
 Interactive analytics dashboard built with Streamlit
 
@@ -23,9 +23,9 @@ Real-time prediction of food freshness
 
 Prediction of pickup/collection likelihood
 
-Data-driven insights for better NGO scheduling
+Data-driven insights for optimized NGO scheduling
 
-Machine learning–based prediction system
+Machine learning–based inference system
 
 Tech Stack:
 
@@ -41,4 +41,19 @@ Matplotlib / Seaborn
 
 Impact:
 
-This system helps NGOs make faster and smarter decisions by identifying which food donations should be collected first, ultimately reducing food waste and improving food distribution efficiency.
+This system enables NGOs to:
+Make faster and more informed decisions
+
+Prioritize urgent food pickups effectively
+
+Reduce food wastage
+
+Improve overall food distribution efficiency
+
+Make faster and more informed decisions
+
+Prioritize urgent food pickups effectively
+
+Reduce food wastage
+
+Improve overall food distribution efficiency
