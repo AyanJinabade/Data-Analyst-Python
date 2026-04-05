@@ -1,5 +1,4 @@
 Food Donation Analytics & Prediction System
-About the Project
 
 This project analyzes food donation listings to help NGOs optimize pickup scheduling and reduce food waste. It predicts food freshness and the likelihood of successful NGO collection, enabling data-driven decisions for time-sensitive donations.
 
