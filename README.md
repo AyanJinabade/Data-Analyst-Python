@@ -29,3 +29,15 @@ Enabled faster and more informed decision-making for NGOs
 Improved prioritization of urgent food pickups
 Reduced food wastage through timely intervention
 Enhanced efficiency of food distribution systems
+
+Built an interactive Power BI dashboard to monitor KPIs and analyze food donation operations.
+
+### Key KPIs:
+- Total Requests
+- Completed vs Pending Pickups
+- Average Freshness Score
+- Pickup Probability
+
+### Dashboard Preview
+
+![Dashboard](dashboard/dashboard_overview.png)
